@@ -1,6 +1,6 @@
 # CollegewebApplication
 
-#Abstract
+## Abstract
 
 The purpose of Intra-College Communication System is to automate the
 existing manual system by the help of computerized equipment’s and fullfledged computer software, fulfilling their requirements, so that their valuable
@@ -13,7 +13,7 @@ computerized records without redundant entries. That means that one need not
 be distracted by information that is not relevant, while being able to reach the
 information.
 
-#INTRODUCTION
+## INTRODUCTION
 The “Intra-College Communication System” has been developed to override
 the problems prevailing in the practicing manual system. This software is
 supported to eliminate and in some cases reduce the hardships faced by this
@@ -32,12 +32,12 @@ organization is equipped with the right level of information and details for you
 future goals. These systems will ultimately allow you to better manage
 resources.
 
-#Scope of  Project
+## Scope of  Project
 Intra-College Communication System is a system that can be easily use by
 various users(viz. Academic, Administration, Training & Placement, Library,
 Finance, Examination sections).
 This project is specially designed for the use of students.
--Student can view study materials, Exam routine and important news related
+- Student can view study materials, Exam routine and important news related
 to their college, class, course in one place with a click of mouse.
 - Student can ask for specific query for any subject through the post option and
 if anyone have the solution he / she can respond with the details.
